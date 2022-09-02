@@ -66,19 +66,16 @@
       <recent name="config" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TabTest">
-    <configuration name="CheckInCheckOut.checkTwentyFifthApartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MethodsWithAnnotationsAndCSV">
+    <configuration name="MethodsWithAnnotationsAndCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.createCSV.MethodsWithAnnotationsAndCSV" />
       <module name="TestBookingt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.check_in_check_oot_tests.*" />
+          <option name="PATTERN" value="tests.createCSV.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.check_in_check_oot_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.check_in_check_oot_tests.CheckInCheckOut" />
-      <option name="METHOD_NAME" value="checkTwentyFifthApartment" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,19 +155,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Unnamed" />
-      <item itemvalue="JUnit.CheckInCheckOut.checkTwentyFifthApartment" />
       <item itemvalue="JUnit.CheckInCheckOut.enterDateCheckInAndCheckOutAndCity" />
       <item itemvalue="JUnit.TabTest.checkUnitsInTabStays" />
       <item itemvalue="JUnit.TabTest" />
       <item itemvalue="JUnit.TabTest.checkTitle4" />
+      <item itemvalue="Application.MethodsWithAnnotationsAndCSV" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsWithAnnotationsAndCSV" />
         <item itemvalue="JUnit.TabTest" />
         <item itemvalue="JUnit.TabTest.checkTitle4" />
         <item itemvalue="JUnit.TabTest.checkUnitsInTabStays" />
         <item itemvalue="JUnit.CheckInCheckOut.enterDateCheckInAndCheckOutAndCity" />
-        <item itemvalue="JUnit.CheckInCheckOut.checkTwentyFifthApartment" />
       </list>
     </recent_temporary>
   </component>
